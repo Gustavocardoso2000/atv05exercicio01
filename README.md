@@ -1,4 +1,6 @@
-Exercicio 01 - Lista 05
+##Exercicio 01 - Lista 05 função
+
+##Enunciado
 
 Faça um programa para imprimir:
     1
